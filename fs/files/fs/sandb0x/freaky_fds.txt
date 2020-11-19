@@ -1,0 +1,14 @@
+Very Sensitive Information!
+
+[Devlog]: On second thought, keeping this info stored in plaintext is too dangerous. I'm going to redact the secure parts.
+
+User: sandb0x
+Password: pwny
+
+Super important flag for Freaky File Descriptors challenge:
+uiuctf{b0y_1_sur3_d0_l0v3_overfl0ws}
+
+
+
+
+You shouldn't be able to read this
